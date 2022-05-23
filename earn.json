@@ -2,8 +2,8 @@
 	"ADS":
 		   {
 		
-			"rewarde_type":"appodeal",
-			"inter_type":"appodeal",
+			"rewarde_type":"admob",
+			"inter_type":"admob",
 			
 			
 			
@@ -16,11 +16,11 @@
 			"interstitial_yandex":"R-M-1684551-1",
 			 "rewarde_yandex":"R-M-1684551-2",  
 			   
-			"interstitial_admob":"ca-app-pub-567",
-			 "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",  
+			"interstitial_admob":"ca-app-pub-4459830934377915/3010815684",
+			 "rewarde_admob":"ca-app-pub-4459830934377915/1697734013",  
    
-			"interstitial_admob1":"ca-app-p12",
-			 "rewarde_admob1":"ca-app-pub-3940256099942544/5354046379",
+			"interstitial_admob1":"ca-app-pub-4459830934377915/3010815684",
+			 "rewarde_admob1":"ca-app-pub-4459830934377915/1697734013",
    
 			"interstitial_admob2":"ca-app-pub-3940256099942544/1033173712",
 			 "rewarde_admob2":"ca-app-pub-3940256099942544/5354046379",
